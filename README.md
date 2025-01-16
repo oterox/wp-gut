@@ -1,2 +1,2 @@
-# wp-gut
+# ox-gut
 Gutemberg plugin
